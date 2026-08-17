@@ -36,9 +36,10 @@
 
 ---
 
-### ☕ 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/751/751621.png" width="60"/>
+</p>
+<p align="center"><i>Rodando no café ☕</i></p>
 
-<p align="center"><i>Café na mão, script rodando.</i></p>
----
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
