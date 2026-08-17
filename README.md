@@ -36,7 +36,9 @@
 
 ---
 
-![gato tomando café](https://media.tenor.com/qMwy9pHiCkEAAAAj/peach-goma-peach-and-goma.gif)
+<p align="center">
+  <img src="https://media.tenor.com/qMwy9pHiCkEAAAAj/peach-goma-peach-and-goma.gif" width="200"/>
+</p>
 
 ---
 
