@@ -36,6 +36,8 @@
 
 ---
 
-[[<p align="center">☕ ... carregando inspiração</p>](https://media.giphy.com/media/3o8doTKUFbJKldFDiw/giphy.gif)](https://media.giphy.com/media/3o8doTKUFbJKldFDiw/giphy.gif)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU0OHNmY3VhdXJseXJ6N3BneDg5Nm1yN3JydXpxZm1yM3J5NzlncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8doTKUFbJKldFDiw/giphy.gif
+
+---
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
