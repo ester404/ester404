@@ -37,8 +37,15 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ester404/ester404/output/github-contribution-grid-snake.svg" width="65%"/>
-  <img src="LINK_DO_GIF_DO_GATO" width="30%"/>
+  <img src="https://raw.githubusercontent.com/ester404/ester404/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/qMwy9pHiCkEAAAAj/peach-goma-peach-and-goma.gif" width="200"/>
+</p>
+
+---
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
