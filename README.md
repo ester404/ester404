@@ -36,9 +36,9 @@
 
 ---
 
-☕ Powered by coffee
-<p align="center"> <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300"/> </p> <p align="center"><i>Rodando scripts... e cafeína.</i></p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/fueled_by-coffee-D2B48C?style=flat-square&logo=buymeacoffee&logoColor=white" />
+</p>
 ---
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
