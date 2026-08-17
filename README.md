@@ -37,9 +37,8 @@
 ---
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/751/751621.png" width="60"/>
+  <img src="https://img.shields.io/badge/-☕_Powered_by_coffee-FFF8F0?style=for-the-badge&labelColor=6C4F3D" />
 </p>
-<p align="center"><i>Rodando no café ☕</i></p>
 
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
