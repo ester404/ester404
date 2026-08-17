@@ -36,17 +36,9 @@
 
 ---
 
-### 🐍 Minha atividade
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ester404/ester404/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ester404/ester404/output/github-contribution-grid-snake.svg" width="65%"/>
+  <img src="LINK_DO_GIF_DO_GATO" width="30%"/>
 </p>
-
-### ☕
-
-<p align="center">
-  <img src="LINK_DO_GIF_DO_GATO" width="180"/>
-</p>
----
 
 <p align="center">✨ Obrigada pela visita! ✨</p>
